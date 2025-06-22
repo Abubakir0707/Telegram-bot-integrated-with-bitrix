@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "titles": {
+      "en": "Python Developer",
+      "ru": "Python‑разработчик",
+      "uz": "Python dasturchisi"
+    },
+    "requirements": {
+      "en": "3+ years experience with Python and Django/Flask.",
+      "ru": "Опыт от 3 лет с Python и Django/Flask.",
+      "uz": "Python va Django/Flask bilan 3+ yillik tajriba."
+    },
+    "questions": {
+      "en": ["Why this job?", "Your biggest strength?"],
+      "ru": ["Почему эта работа?", "Ваша сильная сторона?"],
+      "uz": ["Nega bu ish?", "Sizning kuchli jihatingiz nima?"]
+    }
+  },
+  {
+    "id": 2,
+    "titles": {
+      "en": "Frontend Engineer",
+      "ru": "Frontend‑разработчик",
+      "uz": "Frontend dasturchisi"
+    },
+    "requirements": {
+      "en": "Experience with React or Vue.js.",
+      "ru": "Опыт с React или Vue.js.",
+      "uz": "React yoki Vue.js bilan tajriba."
+    },
+    "questions": {
+      "en": ["Preferred frontend stack?", "How do you handle bugs?"],
+      "ru": ["Любимый стек?", "Как устраняете баги?"],
+      "uz": ["Front-end texnologiyalaringiz?", "Xatoliklarni qanday hal qilasiz?"]
+    }
+  },
+  {
+    "id": 3,
+    "titles": {
+      "en": "Data Analyst",
+      "ru": "Дата Аналитик",
+      "uz": "Data Analitik"
+    },
+    "requirements": {
+      "en": "Experience with PostgresSql and MySql",
+      "ru": "Опыт с PostgresSql и MySql",
+      "uz": "PostgresSql va MySql bilan tajriba."
+    },
+    "questions": {
+      "en": ["Preferred frontend stack?", "How do you handle bugs?"],
+      "ru": ["Любимый стек?", "Как устраняете баги?"],
+      "uz": ["Front-end texnologiyalaringiz?", "Xatoliklarni qanday hal qilasiz?"]
+    }
+  }
+]
